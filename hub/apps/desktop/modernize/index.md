@@ -8,7 +8,7 @@ author: mcleanbyron
 ms.localizationpriority: medium
 ---
 
-# Modernize your desktop apps
+# Modernize your desktop applications
 
 Windows 10 and the Universal Windows Platform (UWP) offer many features you can use to deliver a modern experience in your desktop apps. Most of these features are available as modular components that you can adopt in your desktop apps at your own pace without having to rewrite your application for a different platform. You can enhance your existing desktop apps by choosing which parts of Windows 10 and UWP to adopt.
 
